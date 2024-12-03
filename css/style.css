@@ -114,6 +114,12 @@ footer{
         background-position: top;
     }
 
+    main .assinatura{
+        width: 12em;
+        filter: invert(1);
+        margin-top: 0em;
+    }
+
     main{
         margin: 0 2em;
     }
